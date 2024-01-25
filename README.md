@@ -1,1 +1,3 @@
-# bdfd_comandos
+# BDFD Comandos
+
+aqui estão os comandos feitos nos vídeos :)
